@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/en/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/en/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/ko/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/en/posts/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/en/posts/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/ko/posts/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/en/posts/release/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/en/posts/release/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://example.org/ko/"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/ko/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/"
     />
   </url>
   <url>
-    <loc>https://example.org/en/posts/welcome/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/en/posts/welcome/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/ko/posts/%EA%B3%B5%EA%B0%9C/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%EA%B3%B5%EA%B0%9C/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/ko/posts/%ED%99%98%EC%98%81/</loc>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%ED%99%98%EC%98%81/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
