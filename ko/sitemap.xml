@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/</loc><lastmod>2025-03-08T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/</loc><lastmod>2025-03-08T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://evelyn-widyasari-kho.github.io/sophon-public/"/><xhtml:link rel="alternate" hreflang="ko" href="https://evelyn-widyasari-kho.github.io/sophon-public/ko/"/></url><url><loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%EA%B3%B5%EA%B0%9C/</loc><lastmod>2025-03-08T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%ED%99%98%EC%98%81/</loc><lastmod>2025-03-08T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://evelyn-widyasari-kho.github.io/sophon-public/ko/"
+    />
+  </url>
+  <url>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%EA%B3%B5%EA%B0%9C/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%EC%86%8C%EA%B0%9C/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://evelyn-widyasari-kho.github.io/sophon-public/ko/posts/%ED%8C%80/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SOPHON PROJECT</title>
+    <link>https://evelyn-widyasari-kho.github.io/sophon-public/posts/</link>
+    <description>Recent content in Posts on SOPHON PROJECT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://evelyn-widyasari-kho.github.io/sophon-public/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://evelyn-widyasari-kho.github.io/sophon-public/posts/introduction/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://evelyn-widyasari-kho.github.io/sophon-public/posts/introduction/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://evelyn-widyasari-kho.github.io/sophon-public/posts/introduction/featured.png" />
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://evelyn-widyasari-kho.github.io/sophon-public/posts/release/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://evelyn-widyasari-kho.github.io/sophon-public/posts/release/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://evelyn-widyasari-kho.github.io/sophon-public/posts/release/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://evelyn-widyasari-kho.github.io/sophon-public/posts/team/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://evelyn-widyasari-kho.github.io/sophon-public/posts/team/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://evelyn-widyasari-kho.github.io/sophon-public/posts/team/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
